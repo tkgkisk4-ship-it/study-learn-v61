@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "title": "仮定法過去",
+      "summary": "現実と異なる現在の仮定。if + 過去形, would/could + 動詞原形",
+      "patterns": [
+        "If + S + V(past), S + would/could + V(base)."
+      ],
+      "notes": "妄想（ありえないこと）のニュアンスを含む。例: If I were you, ..."
+    },
+    {
+      "title": "仮定法過去完了",
+      "summary": "現実と異なる過去の仮定。if + had + p.p., would/could have + p.p.",
+      "patterns": [
+        "If + S + had + p.p., S + would/could have + p.p."
+      ],
+      "notes": "過去の事実と反対。例: If I had left earlier, ..."
+    }
+  ]
+}
